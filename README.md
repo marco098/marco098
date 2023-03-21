@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Macchine learning.**
 
-- 👨‍💻 All of my projects are available at [Available soon!](Available soon!)
+- 👨‍💻 All of my projects are available at [Available soon!]
 
-- 📝 I regularly write articles on [Available soon!](Available soon!)
+- 📝 I regularly write articles on [Available soon!]
 
 - 📫 How to reach me **marco_simone@svago.online**
 
-- 📄 Know about my experiences [Available soon!](Available soon!)
+- 📄 Know about my experiences [Available soon!]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
