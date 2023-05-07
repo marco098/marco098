@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Svago Creators](https://svago.online)
 
-- 🌱 I’m currently learning **Cybersecurity, Macchine learning.**
+- 🌱 I’m currently learning **Cybersecurity, Machine learning.**
 
 - 📫 How to reach me **marco_simone@svago.online**
 
